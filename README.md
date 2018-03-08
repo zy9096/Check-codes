@@ -1,5 +1,4 @@
 # Check-codes
-Check codes between svn and reviewboard after committing.
 
 Project background:
 
