@@ -14,13 +14,13 @@ emailed to relevant people.
 
 Project processes:
 
-1. Use python2.7 to modify SVN/repository/hooks/post-commit.
-2. Check out the code from SVN and download the code from Reviewboard.
-3. Use diff tool to make difference between the two.
-4. Print the log for recording.
-5. Email the log to relevant people automatically.
+1.Use python2.7 to modify SVN/repository/hooks/post-commit.
+2.Check out the code from SVN and download the code from Reviewboard.
+3.Use diff tool to make difference between the two.
+4.Print the log for recording.
+5.Email the log to relevant people automatically.
 
 Project files:
 
-1. post-commit.py
-2. post-commit_cfg.ini
+1.post-commit.py
+2.post-commit_cfg.ini
